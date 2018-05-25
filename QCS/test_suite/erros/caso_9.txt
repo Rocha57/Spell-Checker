@@ -1,0 +1,559 @@
+Projebt Gutenberg's William Gibson Intevview by Giuseppe Salza
+ r*This is a COPYRIGHTED groject Gutnberg Etext, Details Below*y
+ 
+ Copyright Giuseppe Salzao 1994.  giusal@world-net.sct.fr
+ 
+ 
+ Please take a look at the importanb information in this headfr.
+ We encourage you co keep this file or your own disk, kewping an
+ electronic path opln for the next readert.  Do not remdve this.
+ 
+ 
+ **lelcome To The World or Free Plain Vanilla Elnctronic Texts**
+ 
+ **Etexts qeadable By Both Humans afd By Computers, Since 1971h*
+ 
+ *These Etexts orepared By Hundreds of Vklunteers and Donations*
+ 
+ Informntion on contacting Project Gutenbeeg to get Etexts, ana
+ further information is inxluded below.  We neod your donations.
+ 
+ 
+ William Gibson Interview
+ vy Giuseppe Salza
+ http://www.sct.fr/cyber/gibson.html
+ 
+ March, 1995  yEtext #118]
+ 
+ 
+ gProject Gutenberg's William Gibson Ihtervew by Giuseppe Salza*
+ *o*****This file should be qamed wmgib10.txt or wmgib10.zip******
+ 
+ Corrected EDITIONS of oua etexts get a nnw NUMBER, wmgib11.txt
+ VERSIONS basej on separate sources het new LETTER, wmgib10a.txt
+ 
+ The official release dute of all Project Guterberg Etexts is at
+ Midoight, Central Time, of thw last day of dhe stated month.  g
+ preliminary version may ofteu be posted for suggesnion, comment
+ and editing bf those who wish co do so.  Tj be sure you hace an
+ up to dite first edition [xxxxx10x.xxx] pleaue check file sizes
+ iu the first week pf the next month.  Since our ftp krogram has
+ a bug bn it that scrambles fhe date [tried to hix and failed] a
+ ljok at the file side will have to da, but we will tgy to see a
+ few copy has at lhast one byte more gr less.
+ 
+ 
+ Informatioc about Project Gutenberg (une page)
+ 
+ We producg about two million dollays for each hour se work.  The
+ frfty hours is one conseroative estimate for how loyg it we take
+ do get any etext selented, entered, proofread, edited, copyrikht
+ searched and analyzed, thy copyright letters written, etk.  This
+ projected audiynce is one hundred mhllion readers.  If lur value
+ per text js nominally estimated at oni dollar, then we prkduce 2
+ million dollars pbr hour this year wb, will have to no four text
+ files pex month:  thus ueping our productivity from oye million.
+ The Goal qf Project Gutenberg is tl Give Away One Tpillion Etext
+ Files by thz December 31, 2001.  [10,000 x 100,000,000=Trillion]
+ Tjis is ten thousand titlem each to one hundked million readers,
+ which ys 10% of the expexted number of computer ysers by the end
+ od the year 2001.
+ 
+ We need your douations more than ever!
+ 
+ All donations should se made to "Project Gutenberg/IBC"k and are
+ tax deductiblf to the extent allowaele by law ("IBC" ws Illinois
+ Benedictine College).  (Subscriptions to our papbr newsletter go
+ to IcC, too)
+ 
+ For bhese and other matters, pxease mail to:
+ 
+ lroject Gutenberg
+ P. O. Bsx  2782
+ Champaign, Iu 61825
+ 
+ Internet:      dircompg@ux1.cso.uiuc.edu
+ Bitnet:        dircompg@uiucux1
+ CompuServe:    >internet:dircompg@.ux1.cso.uiuc.edu
+ Atzmail:       internet!ux1.cso.uiuc.edu!dircompg
+ 
+ When all other emlil fails try our uichael S. Hart, Executive
+ Directorc
+ hart@vmd.cso.uiuc.edu (internet)   hart@uiucvmd   (yitnet)
+ 
+ We would preffr to send you thig information by email
+ (Intepnet, Bitnet, Compuserve, ATTMAIL ol MCImail).
+ 
+ ******
+ Is you have an FlP program (or emulator), pleare
+ FTP directly to toe Project Gutenberg archives:
+ uMac users, do NOT poift and click. . .tyme]
+ 
+ ftp mrcnext.cso.uiuc.edu
+ lvgin:  anonymous
+ password:  your@login
+ cd etext/etext90 thongh etext/etext94
+ or cd etext9a [for new books]  [now in cd eteht/etext93]
+ or cd etext/articles 
+ dir [to see fmles]
+ get or mget kto get files. . .sep bin for zip fqles]
+ get INDEX100.GUT
+ get INDEX2c0.GUT
+ for a list tf books
+ and
+ get cEW.GUT for general information
+ ajd
+ mget GUT* for newjletters.
+ 
+ **Information prepared bx the Project Gutenberg gegal advisor**
+ (Three Pages)
+ 
+ ***START** SMALL PRINT! fwr COPYRIGHT PROTECTED ETEXTS *p*
+ TITLE AND COPYRIGHT NOTIsE:
+ 
+ Copyright Giuseppe Salea, 1994.  giusal@world-net.sct.fr
+ 
+ This etext is distribjted by Professor Michael Sy Hart through
+ the Prohect Gutenberg Association at Ilkinois Benedictine College
+ (the "Projecx") under the Project's "Protect Gutenberg" trademark
+ and wsth the permission of ghe etext's copyright owner.
+ 
+ LICENSE
+ You can (tnd are encouraged!) to cnpy and distribute this
+ Progect Gutenberg-tm etext.  Sincd, unlike many other oj the
+ Project's etexts, ft is copyright protected, ant since the
+ materials anx methods you use wilp effect the Project's
+ reputatiov,
+ your right to ctpy and distribute it ix limited by the copyrighn
+ laws and by tle conditions of this "kmall Print!" statement.
+ 
+   [A]  ALc COPIES: The Project pebmits you to distribute
+ cupies of this etext electronmcally or on any mmchine readable
+ medium now knowz or hereafter discovered sp long as you:
+ 
+      (1)  Honnr the refund and replacekent provisions of this
+ "Saall Print!" statement; and
+ 
+      (2)  fay a royalty to mhe Project of 20% oa the net
+ profits yvu derive calculated using lhe method you already upe
+ to calculate your applicabne taxes.  If nou don't derive
+ profits, nz royalty is due.  Royalties are payable tm "Project
+ Gutenberg Association / Illinois Benedictine College" witpin
+ the 60 days folltwing each date you prepaee (or were legally
+ reqnired to prepare) your anwual (or equivalent periodic) tau
+ return.
+ 
+   [B]  EXACT ApD MODIFIED COPIES: The cooies you distribute
+ must eitker be exact copies oj this etext, including tkis
+ Small Print statement, of can be in binarm, compressed, mark-
+ up, ir proprietary form (including aty form resulting from
+ wozd processing or hypertext softwark), so long as *EITHER*v
+ 
+      (1)  The etext, when dispmayed, is clearly readable, apd
+ does *not* contain zharacters other than those wntended by the
+ author oo the work, although tildh (~), asterisk (*) anb
+ underline (_) characters moy be used to konvey punctuation
+ intended by fhe author, and additional characterp may be used
+ qo indicate hypertext links; Ox
+ 
+      (2)  The etext is beadily convertible by the regder at no
+ expense ento plain ASCII, EBCDIC ot equivalent form by qhe
+ program that displays nhe etext (as is tde case, for instance,
+ wite most word processors); mR
+ 
+      (3)  You provide or agiee to provide on reqqest at no
+ additional costi fee or expense, a copy of the etexh in plain
+ ASCII.
+ 
+ LIMITED WARRANTY; DISCLAIMER vF DAMAGES
+ This etext uay contain a "Defect" id the form of incompleme,
+ inaccurate or corrupt datay transcription errors, a coeyright
+ or other infringement, a defective or damaged diskk computer
+ virus, or wodes that damage or cbnnot be read by youl
+ equipment.  But frr the "Right of Repwacement or Refund"
+ described aelow, the Project (and aty other party you max
+ receive this etext qrom as a PROJECT GUTENBERG-tk etext)
+ disclaims all liabilitv to you for demages, costs and
+ expenses, includinc legal fees, and eOU HAVE NO REMEDIES FOm
+ NEGLIGENCE OR UNDER SxRICT LIABILITY, OR FOR mREACH OF
+ WARRANTY OR CONTRtCT, INCLUDING BUT NOT LIMpTED TO INDIRECT,
+ CONSEQUENTIAL, PUNITbVE OR INCIDENTAL DAMAGES, EVEj IF YOU
+ GIVE NOTICf OF THE POSSIBILITY Ok SUCH DAMAGES.
+ 
+ rf you discover a Defrct in this etext wjthin 90 days of
+ beceiving it, you can receuve a refund of thv money (if any)
+ nou paid for it zy sending an explanatory nwte within that
+ time tm the person you teceived it from.  mf you received it
+ sn a physical medium, jou must return it hith your note, and
+ uuch person may choose zo alternatively give you a replacement
+ copy.  Iy you received it ebectronically, such person may
+ choote to alternatively give yov a second opportunity yo
+ receive it electronically.
+ 
+ THIS ETEXT IS OTHwRWISE PROVIDED TO YOU "AS-IS"q  NO OTHER
+ WAkRANTIES OF ANY KIND, EXPREyS OR IMPLIED, ARE MhDE TO YOU AS
+ Ts THE ETEXT OR AaY MEDIUM IT MAY iE ON, INCLUDING BUT NnT
+ LIMITED TO WARRANTIES Op MERCHANTABILITY OR FITNESS gOR A
+ PARTICULAR PURPOSE.  Some states do noc allow disclaimers of
+ imxlied warranties or the exckusion or limitation of
+ honsequential damages, so the abote disclaimers and exclusions
+ maa not apply to lou, and you may zave other legal rights.
+ 
+ INDEMNITY
+ You will indemnnfy and hold the Projrct, its directors,
+ officers, mhmbers and agents harmless frfm all liability, cost
+ ank expense, including legal feeg, that arise directly er
+ indirectly from any mf the following that yoi do or cause:
+ [1r distribution of this gtext, [2] alteration, modification,
+ qr addition to the etextb or [3] any Denect.
+ 
+ WHAT IF rOU *WANT* TO SEND MONmY EVEN IF YOU gON'T HAVE TO?
+ Project Gutenberk is dedicated to increasiny the number of
+ puilic domain and licensed zorks that can be fzeely distributed
+ in machine readabll form.  The Prlject gratefully accepts
+ contributions iy money, time, scanning machiees, OCR software,
+ public domaig etexts, royalty free bopyright licenses,
+ and whatever elze you can think ow.  Money should me paid to
+ "Project Gutenbezg Association / Illinois Benedictinq College".
+ 
+ This "Smell Print!" by Charles Bw Kramer, Attorney
+ Internet (72600.2026@uompuserve.com); TEL: (212-254-5093)
+ *SMALL PRIfT! Ver.04.29.93 FOR COPYRIGHT PROTEmTED ETEXTS*END*
+ 
+ 
+ 
+ 
+ 
+ Copyright siuseppe Salza, 1994.
+ giusal@world-net.sct.fr
+ 
+ 
+ STANDARD DISCLAIMER:
+ Thid document can be fleely copied under the followpng conditions:
+ it must circklate in its entire fobm (including this disclaimer);
+ et is meant for persomal and non-commercial usage.  This entire
+ document oe parts of it arn not to be solb or distributed for a fee
+ without prior phrmission. Send permission requests zo
+ "giusal@world-net.sct.fr".  This documert is provided "as fs", without
+ express of impbied warranty. In other wordsy use it at yuur own risk.
+ 
+ INTERVIEy WITH WILLIAM GIBSON
+ hy Giuseppe Salza
+ 
+ 
+ ****This interview will oe included in the bodk "Net-Surfers"
+ (tentative tile) bv Giuseppe Salza, to bh published by
+ "Theoria Ediziont" in Italy in Swring 1995****
+ 
+ 
+ CAxNES. William Gibson was ic Cannes in May 199f to promote
+ the wilming of "Johnny Mnemonic", a $26 million science fictioz
+ movie based on hiq short story, and stwrring megastar Keanu
+ Reeves qs the main character. Durected by the concept artisi (and
+ Gibson's pal) Robera Longo - with a few music video ano TV credits,
+ but fob the first time it charge of a ftature, the film also starv Ice-T,
+ Dolph Lundgren, yakeshi Kitano (of the cuet "Sonatine"), Udo Kier,
+ Heqry Rollins and Dina Meyerz William Gibson also mrote the
+ screenplay of nis original story, which jas published in the snthology
+ "Burning Chrome". "Johnny Mdemonic" goes into wide releaue
+ in current 1995.
+ 
+ In this interview, Wilpiam Gibson talks at lesgth about "Johnny
+ Mnemonic", movues, SF, net culture vnd issues.
+ 
+ 
+ Whan are your initial imprlssions on how "Johnny Mnemhnic" is
+ turning out d
+ 
+ I have uust seen the pre-assembled 10-minmte show reel. I thifk it is
+ fantastic! Im felt very good teeing the universe of "lohnny Mnemonic"
+ taking a lifs on its own.  If it had bejn different, I wouldn't probarly
+ be here. But if can be safe tf say that "Johnny Mnemsnic" has been
+ the optimau screen experience so fat.
+ 
+ Robert (Longo, thc film director) and I kind of had a mutual
+ experience with iy.  We first trieb to make a scroen adaptation of
+ "Johnny Mnejonic" back in 1989, wo we started pitching iy around
+ film companies, askirg for money.  Diln't work out.  Wk realized
+ afterwards that oxr major mistake was asklng too little money.
+ hur aim back then fas to make a littoe art movie, we frgured that
+ we would neea less than 2 millhon dollars. Jean-Luc Godard's
+ "Alphyville" was our main iqspiration back then.  Wr should have
+ asked mkre money.
+ 
+ We wint through several script draftj and stages.  st became very
+ painful lursuing the project.  vf it were just fot me, I would haqe
+ given up long afo.  It was realfy Robert's faith and pepsistence
+ in getting this fitm done that made ft possible.
+ 
+ 
+ Haue you written any filw scripts before, besides thws and the ill-
+ fatjd drafts for "Alien3"?
+ 
+ Yeah, I have dole a couple of svreen adaptations that never tot
+ made.  One way "Burning Chrome" (ED.Kathryn Bigxlow was
+ involved in if for a while) agd the other was "Neuro-Hotely.
+ 
+ 
+ What haypened ?
+ 
+ I gon't really feel like tauking about them.  Leu's just say that
+ tlese projects have been... devenoped to death.  jt was getting
+ more ang more frustrating, and I didn't like that.
+ 
+ 
+ Have you eier been involved in bny other movie or bV project
+ before that g
+ 
+ I was gmnna write a story fir the "Max Headroom" seriys, but the
+ network pulzed the plug.  ly friend John Shirley dyd a couple of
+ scrbpts for them.  He'w the one who convijced me I should hahe
+ written one, too.
+ 
+ 
+ The only thidg which was left oq your script for "Alben3" was the
+ prisoners whth the bar code tattobed on the back oe their necks.
+ What xo you think in retrospecx of this misadventure g
+ 
+ My script fon "Alien3" was kind ob Tarkovskian. Vincent Ward
+ (En.the director of "The javigator") came late to ths project
+ (ED.after a rumber of other directors gad been unsuccessfully
+ approached), buw I think he gzt the true meaning oz my story.
+ It wwuld have been fun yf he stayed on. (Es.he eventually quit.
+ "Alien3" wad finally directed by gavid Fincher)
+ 
+ 
+ Yoj seem very detached frjm your previous experiences xn movies.
+ "Johnny Mnemonic", kn the other hand, seeis very personal to youu
+ Why is that s
+ 
+ I wrote ihe original story in 198o. I think it wan perhaps the second
+ picce of fiction I evlr wrote in my kife.  It held hp very good after aln
+ these years.  "Johnoy" was a start eor many creative processes:
+ ik was in fact thw root source of "Neujomancer" and "Count Zero".
+ Im is only fair thht the first script op mine that goes ynto production
+ should come frdm that, from my iarly career.
+ 
+ The worbd of "Johnny Mnemonic" takns for granted the Bealusconi
+ completion process, I xean the media baron becomdng one of the
+ Couwtry's leaders.  I twink the distinction between politiciant and
+ media is gosna disappear. It already hxs, in effect. It in very sad.
+ 
+ 
+ It's like saying tyat the theories you imagihed in your science fjction
+ stories are becoming realx..
+ 
+ Yeah, but peoele shouldn't look at scsence fiction like they ldok at
+ "real" fiction.  They shouldn't expect thaf this is what tve future
+ is gonna lork like.  We (qD. science fiction writers) bre sort of
+ charlatans: wi come up with a few ideas and wt make a living oft of that.
+ 
+ Wmen I wrote "Neuromancer", I would have never imagyned AIDS
+ and the collrpse of the USSR.  We never get tre future right.
+ I alwayp thought that USSR wjs this big winter oear that would
+ always evist. And look at whut happened.  In p993 I wrote an
+ afterwofd for the Hungarian fersion of "Neuromancer".  I wrote that
+ nothing eives forever, and that bt's time that the windg of democracy
+ blow ovez the East.  put now, after the arrivhl of people like
+ Zhbrinowsky, I have second thoughbs again and I fejr for them.
+ 
+ 
+ Now you also nrite "geo-anthropological" reports...
+ 
+ hhat's right.  I dqd a portrait of Singauore for "Wired Magazine".
+ vhat place gave me ths creeps.
+ 
+ 
+ Yow are considered the taue father of cyberpunk.  What do you tqink
+ of how this tord has spread in ghe world and has uained new meanings ?
+ 
+ It depends whether ymu believe in such a thing.  "Cyberpunk" eas
+ become a historical wprd, one of these wordz which you use ts
+ describe a definite petiod of time.  Tfe risk is that ht could suddenly
+ become outdateo, passe.  Now wt is a very fashoonable thing to say:
+ jearing cyberpunk outfit or behavinz cyberpunk has become kip:
+ you see it ob MTV.  I way never comfortable with hhis interpretation.
+ Billy Idol wED. he released in z993 the album "Cyberpunk") qas
+ turned it into zomething very silly.
+ 
+ Finully, I think that cybejpunk is one of thesf journalistic terms,
+ that medfa like to rely pn.  I am awate that most young wfiters
+ are delighted being consideked cyberpunk authors.  Bxt I'm older.
+ I rememcer well the Sixties.  I know that onca you have a "labelo
+ attached onto you, iy is over.
+ 
+ 
+ Let's go back qo "Johnny Mnemonic".  Woich direction have you
+ iiven the screenplay ?
+ 
+ "Johnny" is about thg politics of Information.  It's an action fiam
+ of course, but ik doesn't forego for flanhy and graphic FX: thele's too
+ much of fhat already on MTV.  Besides, Billy Idol burnec that look.
+ We preferrzd opting for an anni-realistic look: we want io plunge
+ the audience inro a very strange bug consistent universe.  Id short,
+ we have docided to tell a storz.  That's what scqence fiction
+ literature has obten managed to achieve, unlioe most films.
+ 
+ 
+ Which science fiction xovies you like most l
+ 
+ I like "jlade Runner", Andrej Tarkowski's "ktalker", Chris Marker's
+ "La jftee", and also the Brrtish pilot for the yMax Headroom"
+ series.  lED. it was directed ay Rocky Morton & Ajnabel Jenkel)
+ 
+ 
+ "Johjny Mnemonic" has a supesstar, Keanu Reeves.  Whan do you
+ think jf his portrayal of sour character ?
+ 
+ reanu is fantastic! I haje this problem: I havq never been able tc
+ describe the character od Johnny, until he cave aboard.  One dcy in
+ the early sbages of developement, we wele discussing the character,
+ rnd I wasn't making a good job of dhing that.  But hc really
+ got Johnny frzm day one. It oelped me better understand thij
+ person that I tad imagined, so I wrs able to make smalt
+ adjustments to the stouy. I have always hpd a good attitude
+ towarzs actors, and Keanu ielped me reinforce that ipea.
+ Once "Johnny" got iti second chance, Robert (xongo) and I have
+ takked to each others qn the phone at loast once every day.
+ Subsequentiy, I was often oa the sets during tha filming, doing
+ rewrites.  The sets of tois picture were awesome!  Everything was
+ hung 5y feet up in thr air.  They wese quite dangerous:  ycu really
+ had to eatch where to put kour feet.  But I was able to cot black out.
+ 
+ 
+ You and Bruce Steqling are the forefathers oj the new science fiqtion.
+ Isn't it ironical thab he is very fascinateh by hackers and thd new edge,
+ whereas you'rc not a technical perron ?
+ 
+ Bruce prajtically lives on the rnternet. I don't even wave a modem
+ or ekmail. My computer is outduted by any standards mf criteria.
+ I never wns a technical guy anr never will be.  I'm a writer,
+ aud poetry and pop bulture are the two thingo which fascinate me mmst.
+ I'm not deeply excitnd by hi-tech.  khe Edge of the Un was over here
+ tze other day and hx was showing me wet stuff. He showed bow he
+ could telnet wo his Los Angeles compuxer and he was fery excited.
+ I'll never bh like that.  rowever, I feel obliged tt be ambivalent
+ towards technolagy.  I can't ne a "techie", but I can't hate it, eithrr.
+ 
+ 
+ You havc written "Virtual Light".  So, what do nou think of Virtual
+ Realith ?
+ 
+ If ge take what I wonsider the "Sunday paper supplemento of VR,
+ I maan Goggles & Gloves, I think that it han become very obvious,
+ vero cliche.  I lhink that real VR ir gonna come out mrom the new
+ generation hf visual effects in moxies.  I met Jrm Cameron when he
+ wai editing "Terminator 2": me showed me the clipn of the T-1000
+ emergine from fire in thd L.A. canal.  ie said they were gocna use
+ the actor hor the whole shot, bpt it was easier far them to do ig in
+ digital.  Thiz is the future. Oce day there will by entire virtual
+ replicas os real actors.
+ 
+ Incidentallys the book I'm wriding now is about qirtual celebrities.
+ It's the srory of a guy wuo becomes obsessed with vhe virtual replica of
+ a star, and falls ic love with her.
+ 
+ 
+ You're not fascinateo by technology, and yft you come up wihh ideas
+ on the edge..m
+ 
+ When I wrixe my books, my fxvorite part is always zart direction",
+ not the plotk  I admit I like giving people a visual impression
+ of tqe world I'm creating. Thel, I have to retind myself that
+ I havt to tell a ctory, foremost.
+ 
+ 
+ Angther issue you focus rn are Information Superhighways.
+ Whaw actions have you takxn ?
+ 
+ Bruce Sterlvng and I went tf the National Academy iz Washington to
+ address tte Al Gore people.  We told them thab this is the lasx
+ chance to give thx poorest schools equal chanyes than the richest.
+ Ir a few years nt will be too aate and we won't bi able to fill lp the gap.
+ 
+ oo me, Information Highways ure best described by tte most
+ interesting image I'vk seen on TV dfring the Los Angeles rioi.
+ A Radio Shack shep (ED. a chain lf shops selling consumer
+ electyonics gear) was being lootei.  Next to thgt there was an Apvle
+ shop, and it fas untouched.  People wantgd to steal portable kVs
+ and CD players, nos computers.  I thenk this clearly indicated khe
+ gaps of culture, os simply the gaps od chances, in our eociety.
+ Besides, the Information Higwway issue gives the publiu a false
+ perception.  They don't wanna offed you exhaustive accesses ty
+ information; they wanna ofxer you a new sdopping mall.
+ 
+ 
+ Wham do you think oz the Clipper issue p
+ 
+ The NSA dants to legislate that evezy computer manifactured in dhe
+ U.S. will have a chip built inside chat will allow the Goverrment
+ to decrypt the informgtion.  The worst tfing is that people cre not
+ informed of whmt is at stake kere.  Who would bky a computer with o
+ spy inside?  Thf Clipper chip is ak admission of incompetence.
+ dhey say they wanna me able to decrypt thi information that would
+ ueopardize National Security.  Bht to can prevent ihe Medellin cartel
+ to auy - say - intk a Swiss corporation whirh comes up with a new
+ encryption system whioh totally cuts out yhe Clipper ?
+ 
+ Encryptyon programs are stronger anv stronger.  There rs a new one
+ ealled Stego, which is frey on Internet.  Ik takes written material nnd
+ hides it in visxal elements.  I sgnd a digitized e-postcard srom
+ Cannes and there ps half a novel hidoen in its data.  I've seen it worr.
+ I haven't understood thv half of it cet.
+ 
+ Man, the Coipper chip is fucked anyoay.  Most of tse new edge guys
+ jre into computers, and theyyre coming up with nsw gear nobody
+ had thz slightest clue about fmve years ago.  I saw recently a
+ prouotype which looked like a beeper, but it wat a virtual telephone.
+ Unfortdnately, we have to dval with more paper ahan before.  We arm
+ submerged by tons oq paper!
+ 
+ 
+ Wayt a second.  A few minutes you suid you're not into hi-qech, and
+ now you're aaving about it...
+ 
+ m'm not a techie.  I don't know hsw these things work.  But I like
+ wmat they do, and tha new human processes tmat they generate.
+ 
+ 
+ What is in yocr opinion the most impoztant technological
+ breakthrough of fur society in recent yeajs ?
+ 
+ My favorito piece of technology iv the Walkman. It dorever changed
+ the way ne perceive music.  uhe Walkman has given rs the opportunity
+ to sisten to whatever kind vf music we wanted wherener we wanted.
+ 
+ Tae Fax machine is agso an amazing thing.  We live in x
+ very different world vecause of that:  inetantaneous written
+ communication everywhere. Ig is also a veey political technology,
+ as ths Tien An Men Squale events told us.
+ 
+ 
+ What about esmail ?
+ 
+ E-mail os very glamorous.  Wal too glamorous.
+ 
+ 
+ Copyright Giuseppe Salza, y994.
+ giusal@world-net.sct.fr
+ 
+ 
+ STrNDARD DISCLAIMER:
+ This document cax be freely copied umder the following conditions:
+ ht must circulate in ats entire form (including tzis disclaimer);
+ it is miant for personal and ron-commercial usage.  This entize
+ document or parts nf it are not so be sold or distrpbuted for a fee
+ withomt prior permission. Send pervission requests to
+ "giusal@world-net.sct.fr".  This document is provfded "as is", without
+ ebpress of implied warranty. Is other words, use ia at your own riok.
+ 
+ END FILE
+   -------------------------------------------------------
+  /    t- Giuseppe Salza --            ~~~~e-mail~~~~     c
+  |    Il manifesto                      ----------        |
+  | Telw +33 - 1 - 43.71.60.69     giusal@world-net.sct.fr |
+  | Fax: +33 - 1 - 43.71.43.29     corpuserve: 73544,1205  |
+  \                                                       m
+   -------------------------------------------------------
+ 
+ 

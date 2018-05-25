@@ -1,0 +1,34 @@
+Could a small group of women in tech tell me anything about what it’s like to be a woman in tech today? Earlier this month, IBM’s San Francisco team invited me to give it a try. They set me up on a dinner date with three women—one in her 20s, one in her 40s, and one in her 50s. The three hadn’t met before. We had no formal agenda, just a general plan to talk about their experiences. It was pretty bold of the company to suggest that the experiences of three women could coalesce into anything meaningful—but I think it did.
+
+Here’s who I met and what I learned.
+
+The women:
+
+From the Baby Boomer generation, Angie Krackeler, who goes by the lengthy title of worldwide developer and startup technical enablement advocate. Basically, Krackeler says, she helps startups use IBM technology. Krackeler has an M.S. in electrical engineering, and started her IBM career 30 years ago as a chip designer.
+Representing Gen X, Erin McKean, a developer advocate. McKean’s role, she says, is “everything API,” including one of her favorite parts of her job, building demos for developers. Prior to joining IBM, McKean spent 20 years as a dictionary editor (she has an M.A. in linguistics), and took a number of coding classes along the way. McKean says the step from dictionaries to computers was a small one: “A dictionary is a database on paper, and JavaScript is a lot easier to learn than German.”
+And from the millennials, Anamita Guha, a product manager for IBM Watson developer labs and AR/VR labs. Guha’s job involves creating tools for developers that help them use Watson. She came to IBM a year ago after, she says, hopping through a number of intense tech startups. Her B.A. degree is in cognitive science, and she started and sold her first tech company while still in college.
+My takeaways:
+
+Invisibility can be a superpower
+
+Women in tech often talk about being overlooked or ignored. At events, they are regularly assumed to part of the support staff instead of members of the tech team. Some describe it as feeling invisible in an industry dominated by “tech bros.” But invisibility, it seems, can be a superpower.
+
+Says McKean: “Invisibility is fantastic. People say things in front of you when they shouldn’t. I’ve been in a coffee shop a number of times, and seen two dudes sitting at the other table look around, thinking, ‘Oooh, we are going to have our strategy discussion now.’ They see me and are like, ‘Oh, that middle-aged mom doesn’t care about our venture strategy.’ And I’m like, ‘Wrong, dude.’ This was particularly interesting when I was raising venture money myself.”
+
+Says Guha, “I get a lot of pleasure from proving people wrong. When I am at a work event, and someone says, ‘Oh, are you this person’s girlfriend?’ I’m like, ‘No, I wrote the tech behind that.’ And they are like, ‘Uh, do you want a drink?’ The dynamic changes so quickly; I love doing that.”
+
+McKean also likes upending expectations. “When I’m doing a demo,” she says, “there’s often a dude that could be my kid in the audience. And I’m showing him that it’s not simply ‘Your mom can use this product.’ It’s ‘Your mom can code this product.’”
+
+Being a woman can help your tech career
+
+“Being a woman in tech right now has been beneficial to my career,” says Guha. “I work in AR and VR, and that space has very few women, so I get invited to speak on panels all the time. There is a barrier you have to jump to establish yourself, but now, because we are in a climate that demands diversity, I sometimes feel like I’m passing my male peers because I’m a woman. It’s amazing to be able to do that. “
+
+This new visibility is also motivating, Guha says. “I always say, ‘You can’t be what you can’t see,’ and that motivates me to keep going, to be that person who inspires people.”
+
+Many excellent candidates follow nontraditional routes to tech jobs
+
+Of the three women, only Krackeler has a traditional engineering educational background. The others moved into tech because it was a means to an end. McKean, for example, always wanted to be a dictionary editor, but found herself coding more and more. Eventually, she started an online dictionary startup, Wordnik. “Working in a small room with a lot of kick-ass engineers made me want to level up my coding skills; I am now a full-stack engineer.” (Wordnik, originally a traditional venture-backed company, is now a nonprofit.)
+
+Guha was on a pre-med track in college, majoring in cognitive science. She developed a complicated spreadsheet to help her study for the Medical College Admission Test, started a company to turn that spreadsheet into an app, pivoted a couple of times, and sold the company before she graduated. Her first job out of college was designing user interfaces for mobile games; the psychology courses and medical research she’d been involved in during college helped with that, she says.
+
+McKean sums it up: “I think a lot of women get into tech because they need it to do the thing they want to do. It’s goal driven. I meet a lot of men who go into tech because they love tech. I love writing code, but I like the ends more than I like the means. I am not interested in beautiful tech for its own sake, I’m interested in real world things people have to do.”

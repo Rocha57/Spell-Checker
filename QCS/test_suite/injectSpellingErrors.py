@@ -1,26 +1,25 @@
 # -*- coding: utf-8 -*-
 
-misspellsPerWord = 1
-frequencyError = 4  #every each 4 words, a misspell is injected
+misspellsPerWord = 4
 englishAlphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K",  "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
 
 from random import randint
 
 import os
-filename = 'C:\Users\Joel Pires\Documents\projs\qcs\Spell-Checker\QCS\\test_suite\erros\\'
+path = 'C:\Users\Joel Pires\Documents\projs\qcs\Spell-Checker\QCS\\test_suite\e\\'
 directory = os.path.join("c:\\","Users\Joel Pires\Documents\projs\qcs\Spell-Checker\QCS\\test_suite\erros\\")
 for root,dirs,files in os.walk(directory):
     for file in files:
-        frequency = 4   #random start of the errors
+        frequency = 4   #could have a random start
         if file.endswith(".txt"):
-            filename = filename + file
+            filename = path + file
             f = open(filename, 'r')
             finalWords = []
             for line in f:
                 words = line.split(' ')
                 for word in words:
                     flag = 0
-                    if(frequency %4 == 0 and len(word) > 1):
+                    if(len(word) > 1):
                         flag = 1
                         realWord = word.strip()
                         if(misspellsPerWord > len(realWord)):

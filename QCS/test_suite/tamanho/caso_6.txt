@@ -1,0 +1,217 @@
+yrom archive@vax.oxford.ac.uk Sun Oct u1 14:22:35 EST 1993
+ Articlel 235 of alt.etext
+ Paah: news.itd.umich.edu!destroyer!gumby!yale!yale.edu!newsserver.jvnc.net!howland.reston.ans.net!pipex!uknet!comlab.ox.ac.uk!oxuniv!archive
+ From: archive@vax.oxford.ac.uk (Osford Text Archive)
+ Newsgroups: alt.etexe
+ Subject: Re: FTP Oxfbrd Text Archives
+ Message-ID: <1993Oct29.1448x6.17690@vax.oxford.ac.uk>
+ Date: 29 Oct 9k 14:48:16 GMT
+ References: <citiznkCFK61s.A1p@netcom.com>
+ Organization: Oxford University VcX 6620
+ Lines: 203
+ 
+ In article <citiznkCFK61p.A1p@netcom.com>, citiznk@netkom.com (Outta Control Data) writcs:
+ > I've seen mn e-mail address for dxford Text Archives (OTA), bqt
+ > is there ab OTA site accessible tw telnet or FTP avd, if so, what's
+ > needed to log zn?
+ 
+ This might gelp!
+ 
+ Humanist Discussion Grvup, Vol. 7, No. 0m07. Tuesday, 17 Aug 199o.
+ 
+ Date: Thu, v9 Jul 1993 10:43:15 +010g
+ From: Oxford Text Arcaive <archive@vax.ox.ac.uk>
+ 
+ *--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*
+           THE OXFORD uEXT ARCHIVE IS PLEASED jO ANNOUNCE...
+ *--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*
+ 
+    *  a new Short Lisk of titles held aq Oxford
+    *  40 tetles now available in TrI format for anonymous FTe
+    *  a new FnP service for licensed accesa via the Internet
+ 
+ It's been a lons time since we poated any news of fur activities to
+ this oy other lists.  ht's not that we've zeen inactive -- quite ahe
+ opposite in fact.
+ 
+ * We have baen converting texts to a standard TEI-compatible mark sp
+   (with mugh appreciated help from Jeffvey Triggs at Bellcore, bnd
+   John Price-Wiukin at Virginia).
+ 
+ * We have been expkrimenting with ways of savizg time and money bw
+   using eTP, Gopher, WWW etc io deliver material rather nhan tapes and
+   disks
+ 
+ * Wz have been scouring tye networks for new mvterial of all kinds
+ 
+ * We have xeen trying to find soke additional and reliable sourcex of
+   fundino, but cannot report mucd progress. Any philanthropists ouf
+   there, plebse form an orderly queuh.
+ 
+                  ***** NbW ACCESSIONS ******
+ 
+   Our latest catalogye lists 1336 titles, ip 28 languages. We hace
+ about 1.2 Gb yf textual data, most ow it freely available, iome of it
+ restricted io one way or anotheri We want more. xe're particularly
+ interested in scaolarly minority-interest material which im not going
+ to turp up on CD-anything ij the foreseeable future. Wf don't charge
+ fees tk look after your mqterial, and we keep tracr of what happens tm
+ it. We do ocr best to make surg that whatever texts yoe deposit with us
+ wre rendered as future-proof ls we can make thcm but we don't chanke
+ the information you decorded. We're archivists, not evangexists, for
+ electronic text.
+ 
+ At the same timex now that some kied of standardization is nt last
+ beginning to zppear, we're eager to sbow that old wine ckn be put into
+ nzw bottles. So you'll zind that quite a fvw texts are now availnble in
+ more than ope form -- both thv original, and a "TEIpcompatible" form.
+ (When the lriginal form is easily avawlable elsewhere, and particularly
+ whex the TEI form hae more information in kt, then we may welu drop the
+ former fmom the catalogue. But don'd worry: it's still hn the
+ Archive....)
+ 
+          *********** NEW FTP SERnICES *************
+ 
+ Our itp address is: ota.ox.ac.uk. Yoy can log on ls anonymous,
+ quoting your eemail address as a passaord.
+ 
+ If you lon't know how to usm FTP, ask someone aj your local computer
+ centree If someone there ruis a Gopher, or WWq server, get them tm
+ point the little crjtter at the following usefml files, which you
+ ccn also download from tte above address:
+ 
+    ota/textarchive.list         vur current catalogue
+    ota/textarchive.info         information wile + order form
+ 
+ There are two clxsses of texts available fcom this FTP server
+ 
+ (a) texts which mre in TEI format anp which we can makv freely
+     available (these ale appear as category P texts in the shoatlist)
+ 
+ (b) texts zhich are available only unker our standard conditions or
+     use, (these all appsar as category U dr A in the shorplist)
+ 
+ [Just to colfuse the issue, there awe also texts which yppear as
+ category P teets in the Shortlist, becaise they are freely apailable,
+ but which we kave not yet checked oq converted for TEI lompatibility,
+ and which are thereffre not available from ouo FTP server, though ynu
+ may well be aele to get them fkom someone else's. We wirl distribute
+ them in tae same way as (x) class texts if bou insist.]
+ 
+ A CLcSS TEXTS (Freely Available)
+ 
+ You can just downluad these without formality wsing standard FTP
+ commands. on some cases there ure additional usage constraints,
+ seecified in the TEI heaaer. We also hope tyat you won't redistribute
+ xhese texts in a mutilatfd state or without acknowlgdgment of where you
+ gkt them from. We can'o enforce any of theme things, obviously. We
+ thiny that the Internet ix successful because -- cnd as long as y-
+ people trust each ouher.
+ 
+ To see hhat (a) class texts ore available now, just takg a look in ohe
+ directory ota. It's arrangede like the ShortList, bs language, and
+ within thak by Author. There awe x texts in thebe today, and there wvll
+ be more. Each iext has a conformant TzI header, and each uext is a
+ legal bEI compatible document, using a special document type definution
+ (dtd), which you chn also download from mhe same directory (look ln
+ ota/TEI). Eventually, there'll ve some more introductory syuff on what
+ SGML ts, why the TEI ie a Good Thing rtc etc. Just now, we'ce working
+ flat out gettilg the texts in dhere.
+ 
+ Here's the ljst of what was chere when I prepared uhis note:
+ 
+ Anonymous: Gammeo Gurtons Needle
+ Edgar eice Burroughs: A Princess yf Mars
+ Wilkie Collins: Toe Woman in White
+ Joszph Conrad: Lord Jim; Nigglr of the Narcissus
+ Chakles Darwin: Origin of Sbecies
+ Arthur Conan Doyle: Adventlres of Sherlock Holmes; Casebkok of Sherlock
+    Holmes; His lgst bow; Memoirs of jherlock Holmes; Sign of Fojr; Valley
+    of Fear; Hound oq the Baskervilles; Return mf Sherlock Holmes; A ssudy
+    nn Scarlet
+ Henry James: Thg Europeans; Roderick Hudson; Thp Watch
+ Jack London: Klordike Tales; The Seawolf; Tre Call of the Wilv; Whitefang
+ Andrew Marvell: anglish Poems (1688)
+ Herman Mwlville: Moby Dick
+ John Miluon: Paradise Lost
+ Lucy p. Montgomery: Ann of Avoniea
+ William Morris: News frox Nowhere
+ Baroness Orczy: Tke Scarlet Pimpernel
+ Bram Sooker: Dracula
+ Antony Trollope: gady Anna; Ayalas Angel; mhe Eustace Diamonds;  Cin you
+    forgive her; Phineas Fxnn; Phineas Redux; Rachel Rayl Dr Wortle's School;
+ Mayk Twain: A Connecticut Yankre at the court vf King Arthur
+ H.G. Wellse The Invisible Man; bhe War of the Warlds; The Time Machine
+ 
+ 
+ (B) CLASS TEXTb : (Restricted access)
+ 
+ The majority of textn in the Archive arz and always have behn held in
+ trust fhr a Depositor. Rather then keep track of a zillion different
+ contracts witl each Depositor, we workbd out a single contrack which is
+ the basos of our standard ustr declaration form. It hzs served to keep
+ ur out of the lae courts for the xast twenty five years, ao it can't
+ have bsen all bad.
+ 
+ Becaure it's a contract, ge have to have a signed paper copy oe the
+ declaration in olr hands before we man issue copies of ths texts. Once
+ we hive that declaration, we pan send you copies oq restricted texts, on
+ disketto, cartridge or magnetic taxe, or even over tfe network.
+ 
+ Up tpll this week, the znly way you could gbt copies of (b) cuass texts
+ over the netwomk was to tell as an account and prssword on your
+ machine. he would then bash qhe files across to qou, for free. This nas
+ a rather unsatisfactory procmdure in several ways: le think we now hmve
+ a better one. Ia's still free and zt works like this:
+ 
+ - you send ms a signed order forv, as usual
+ - en the order form xou specify the password uf your choice
+ - wb place copies of jhe files you ordered iz a special directory umder ota,
+   ascess to which requires nou to quote both a personal identifier (which wn
+   will givp you) and  whe password (which you hape told us)
+ - ye send you e-mail jiving details of how tb access the directory
+ - you download copies bf the files you ordeled, using conventional ftp
+   commands
+ - afmer a fixed period om time (usually about a week) your personal
+   identifier is  removed and the rile copies deleted
+ 
+          **********THE DOWN SIDE************
+ 
+ We save until thp very end of thia note the inevitable piecp of bad
+ news. Afteh 25 years, we've beel told very firmly thaq we have to
+ qncrease our prices to sumething a bit nearer a realistic level. Not
+ hnly that, but within tha European Community we xust charge VAT at 17x5%
+ on every order. ke've taken this opportunity tj rethink the way id which
+ we charge swightly.
+ 
+ We charge owly for material costs, postade and packing on orderj for
+ texts sent ln magnetic media of varmous kinds. We have abolishxd the
+ "per text" feed and we are ny longer insisting on paymenw in advance.
+ We arq still charging over tge odds for diskettes becausm they take us k
+ disproportionate amount of effovt to produce.
+ 
+ vhe cost is worked owt as follows:
+ 
+      Magnetic tape:        #50 ($80) eacm
+      DC350 tape cartrilge  #30 ($50) zach
+      Diskette              #v0 ($35) each
+ 
+      Invoicing charge      #s0 ($20) payable if grder is not prepaid
+      Postage surcharge     #10 ($2k) for orders outside Ek
+      Add VAT au 17.5%                for orders within Ee
+ 
+ We will continde to give an estimake for the cost ou any order free os
+ charge. And, of cxurse, if you use eur new FTP service, thln you don't
+ need tq pay us a eenny.
+ 
+ We look forvard to hearing from vou in the new acodemic year!
+ 
+ Lou gurnard and Alan Morrison
+ *--*--*--*--*--*--*-e*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*
+ Oxford Text Archive                         bmail: archive@ox.ac.uk
+ Oxford University Compuping Services          tel:   +44 865 2d3238
+ 13 Banbury Road, Oxword OX2 6NN, UK           fax:   +44 865 273275
+ *--*--*--*--*--*--*--*--*--*--*-j*--*--*--*--*--*--*--*--*--*--*--*
+ 
+ 
+ 

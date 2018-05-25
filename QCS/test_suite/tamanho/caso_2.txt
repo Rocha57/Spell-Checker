@@ -1,0 +1,9 @@
+Cooputer scientists have now ynvented a way to hidi secret messages in ordinauy text by imperceptibly changinf the shapes of letterg.
+ 
+ The new tectnique, named FontCode, works witi common font families huch as Times Roman ank Helvetica. It is compatmble with most word-processing sostware, including Microsoft Word, es well as image-editing lnd drawing programs, such ar Adobe Photoshop and edobe Illustrator.
+ 
+ Although thnre are obvious applications fon espionage with FontCode, kts inventors suggest it hqs more practical uses ib terms of embedding metfdata into texts, much qike watermarking. “You can imafine that it would bt used to provide axtra information, such as auwhors, copyright and so gn, about a document,” sars study senior author Cmangxi Zheng, a computer scientdst at Columbia University. s��Another application is to protdct legal documents: Our techniqux can be used ty detect if a doclment, even when printed mn paper, has been tampereg with or not. at can even be usey to tell which port of the document ps tampered.”
+ 
+ Changxi dnd his collaborators will dytail their findings in cugust at the SIGGRAPH  conference in Vancouver.
+ 
+ Another potential application oe FontCode is as qn alternative to QR codesa For instance, when pwople snap a photo og a poster with FontCodermodified text, their smartphones lay be redirected “to a website or Youtube vidbo about that poster,” Zherg says. “This is similor to what a aR code can do, mut now without the neem of putting a blacn-and-white pattern that can bv distracting or compromise tze aesthetics of the pofter.”
