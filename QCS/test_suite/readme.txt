@@ -19,8 +19,7 @@ O test-suite é composto por 3 tipos de testes diferentes:
             . caso_17: ficheiro com texto português
             . caso_18: ficheiro com longa coluna de palavras sem significado
 
-    -> pasta tamanho - contém 20 casos de teste com diferentes número de palavras e com alguns erros gerados aleatoriamente
-    (a frequência dos erros tende a ser proporcional à quantidade de palavras no ficheiro):
+    -> pasta tamanho - contém 20 casos de teste com textos de diferentes dimensões: textos pequenos (=<10000 caracteres); textos médios (>10000 e =<100000 caracteres); textos grandes (>100000 e =<500000) e textos muito grandes (>500000). Foram injetados em todos estes textos erros de forma a que 25% das suas palavras contivessem 1 erro por palavra.
             . caso_1: 801 caracteres - Pequeno
             . caso_2: 1595 caracteres - Pequeno
             . caso_3: 3773 caracteres - Pequeno
