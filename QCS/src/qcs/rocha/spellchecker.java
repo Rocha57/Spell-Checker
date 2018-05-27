@@ -15,10 +15,10 @@ public class spellchecker {
 
     public spellchecker()
     {
-        System.out.println("Working Directory = " + System.getProperty("user.dir"));
+        //System.out.println("Working Directory = " + System.getProperty("user.dir"));
         dictionary = new Hashtable<String,String>();
-        System.out.println("******Welcome to the spell checker using Hashtable*****");
-        System.out.println("The spell checker would check every line from the input file and then give suggestions if needed after each line. \n\n");
+        //System.out.println("******Welcome to the spell checker using Hashtable*****");
+        //System.out.println("The spell checker would check every line from the input file and then give suggestions if needed after each line. \n\n");
 
         try
         {
