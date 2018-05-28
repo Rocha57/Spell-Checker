@@ -5,6 +5,9 @@ import java.util.*;
 
 public class spellchecker {
 
+    BufferedReader br = null;
+    FileReader fr = null;
+
     Hashtable<String,String> dictionary;   // To store all the words of the dictionary
     boolean suggestWord ;           // To indicate whether the word is spelled correctly or not.
 
@@ -39,40 +42,93 @@ public class spellchecker {
             }
             dictReader.close();
 
-            String file = "inputtext.txt";
-            // Read and check the input from the text file
-            BufferedReader inputFile = new BufferedReader(new FileReader(file));
-            System.out.println("Reading from "+file);
+            //READ FROM THE FILES AND WRITE THE OUTPUTS TO ANOTHER FILES
 
-            // Initialising a spelling suggest object
-            spellingsuggest suggest = new spellingsuggest("wordprobabilityDatabase.txt");
+            String fileName, inputFilename, outputfilename, outputWord = "";
 
-            // Reads input lines one by one
-            while ( inputFile.ready() )
-            {
-                String s = inputFile.readLine() ;
-                //System.out.println (s);
-                String[] result = s.split("\\s");
+            File inputDirectory = new File(System.getProperty("user.dir")+"/test_suite/erros/Semerros/");
 
-                for (int x=0; x<result.length; x++)
-                {
-                    suggestWord = true;
-                    String outputWord = checkWord(result[x]);
+            File outputDirectory = new File(System.getProperty("user.dir")+"/outputs/erros/Semerros/");
 
-                    if(suggestWord)
-                    {
-                        //System.out.println("Suggestions for "+result[x]+" are:  "+suggest.correct(outputWord)+"\n");
-                        System.out.println(result[x] + " -> " + suggest.correct(outputWord) );
-                    }
+            for (final File fileEntry : inputDirectory.listFiles()) {
+                if (fileEntry.isDirectory()) {
+                    System.out.println("FILE DIRECTORY: " + fileEntry.getName());
+                } else {
+                    System.out.println("FILE NAME: " + fileEntry.getName());
                 }
             }
-            inputFile.close();
-        }
-        catch (IOException e)
+
+
+            FilenameFilter textFilter = new FilenameFilter() {
+                public boolean accept(File dir, String name) {
+                    return name.toLowerCase().endsWith(".txt");
+                }
+            };
+
+            File[] files = inputDirectory.listFiles(textFilter);
+
+            spellingsuggest suggest = new spellingsuggest("wordprobabilityDatabase.txt");
+
+            for (File myFile : files) {
+                System.out.println("Começou o caso de teste para: " + myFile.getName());
+                Thread.sleep(2000);
+                inputFilename = inputDirectory + "/" +  myFile.getName();
+                outputfilename = outputDirectory + "/output_" +  myFile.getName();
+
+                // Read and check the input from the text file
+                fr = new FileReader(inputFilename);
+                br = new BufferedReader(fr);
+
+                String currentLine;
+
+
+
+                //START READING BOY
+                while ((currentLine = br.readLine()) != null){
+
+                    try {
+
+                            String[] result = currentLine.split("\\s");
+
+                            for (int x=0; x<result.length; x++)
+                            {
+                                suggestWord = true;
+
+                                //if((result[x].length() == 1 && Character.isLetter(result[x].charAt(0))) || result[x].length() > 1){
+                                outputWord = checkWord(result[x]);
+                                //}
+
+
+                                if(suggestWord)
+                                {
+                                    //System.out.println("Suggestions for "+result[x]+" are:  " + suggest.correct(outputWord)+"\n");
+                                    //writer.println(result[x] + " -> " + suggest.correct(outputWord) );
+                                    try (BufferedWriter bw = new BufferedWriter(new FileWriter(outputfilename, true))) {
+                                        bw.write(result[x] + " -> " + suggest.correct(outputWord) +"\n");
+                                        bw.flush();
+                                    }
+
+                                }
+                            }
+                    }catch (Exception e){
+                        System.out.println(e.getMessage());
+                    }
+                }
+
+                br.close();
+                fr.close();
+
+
+                // Initialising a spelling suggest object
+
+            }
+        }catch (IOException e)
         {
             System.out.println("IOException Occured! ");
             e.printStackTrace();
-            //      System.exit(-1);
+            //System.exit(-1);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
         }
     }
 
@@ -146,4 +202,3 @@ public class spellchecker {
     }
 
 }
-
